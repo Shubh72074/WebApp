@@ -1,6 +1,5 @@
 package com.shubh.WebApp;
 
-import com.shubh.WebApp.MainController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
